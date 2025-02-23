@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "疗愈SPA",
+    "description": "通过冥想与颂钵音疗，帮助身心深度放松，缓解压力",
+    "image": "https://free4.yunpng.top/2025/02/23/67baa32fbac41.png",
+    "swiperImages": [
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "私教课",
+    "description": "一对一专业指导，定制个性化训练计划",
+    "image": "https://free4.yunpng.top/2025/02/23/67baa32fc0f5c.png",
+    "swiperImages": [
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "核心床小班课",
+    "description": "小班制核心床训练，强化核心肌群与体态调整",
+    "image": "https://free4.yunpng.top/2025/02/23/67baa3f557e5b.png",
+    "swiperImages": [
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "维秘小班课",
+    "description": "结合有氧与塑形训练，打造紧致健康体态",
+    "image": "https://free4.yunpng.top/2025/02/23/67baa3f55f4fa.png",
+    "swiperImages": [
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300"
+    ]
+  }
+]

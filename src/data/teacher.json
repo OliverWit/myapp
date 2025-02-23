@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "role": "疗愈SPA师",
+    "name": "娟娟",
+    "avatar": "https://img12.360buyimg.com/imagetools/jfs/t1/143702/31/16654/116794/5fc6f541Edebf8a57/4138097748889987.png",
+    "desc": "8年身心疗愈SPA经验，于ITM国际按摩学校学习，掌握多种疗愈技能，以关爱抚触服务顾客",
+    "detail": {
+      "exp": "8年，毕业于ITM国际按摩学校，精通阿育吠陀油疗与芳香疗法",
+      "feature": "结合颂钵音疗与深度按摩，缓解肌肉紧张与焦虑情绪，提升身心放松效果‌",
+      "style": "以『抚触疗愈』传递关怀，帮助学员在SPA中重建身心连接‌"
+    },
+    "swiperImages": [
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300"
+    ]
+  },
+  {
+    "id": 2,
+    "role": "普拉提老师",
+    "name": "海莉",
+    "avatar": "https://img12.360buyimg.com/imagetools/jfs/t1/143702/31/16654/116794/5fc6f541Edebf8a57/4138097748889987.png",
+    "desc": "4年健身教学经验，精于维秘塑形等课程，耐心亲和，善于沟通，营造安全有效的练习环境 ",
+    "detail": {
+      "exp": "4年，专注维秘塑形与体态改善，擅长根据学员需求定制训练计划",
+      "feature": "融合高强度燃脂与功能性训练，结合运动解剖学知识，提升运动表现与肌肉线条美感",
+      "style": "亲和力强，注重沟通与动作标准化，确保训练安全高效"
+    },
+    "swiperImages": [
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300"
+    ]
+  },
+  {
+    "id": 3,
+    "role": "普拉提老师",
+    "name": "萍萍",
+    "avatar": "https://free4.yunpng.top/2025/02/23/67ba163137a48.png",
+    "desc": "6年普拉提教龄，擅长产后修复等课程，教学耐心，注重细节，助学员精准发力，性格沉稳乐观",
+    "detail": {
+      "exp": "6年，持有国际普拉提体系认证，专精产后修复与体态调整领域‌",
+      "feature": "结合产后康复需求，通过精准塑形课程帮助学员恢复核心力量与身体平衡，教学强调『因人施教』，注重动作细节与安全性‌",
+      "style": "沉稳耐心，每节课引导学员感知身体变化，提升自信与内在力量"
+    },
+    "swiperImages": [
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300"
+    ]
+  },
+  {
+    "id": 4,
+    "role": "普拉提老师",
+    "name": "丹丹",
+    "avatar": "https://img12.360buyimg.com/imagetools/jfs/t1/143702/31/16654/116794/5fc6f541Edebf8a57/4138097748889987.png",
+    "desc": "三年半教学经历，专注疼痛处理等课程，秉持北极星理念，依学员情况循序渐进教学 ",
+    "detail": {
+      "exp": "3.5年，主攻疼痛管理与功能提升，持有北极星普拉提国际认证",
+      "feature": "通过渐进式训练改善关节活动度与肌肉代偿问题，强调『身体中立位』调整，预防运动损伤",
+      "style": "以鼓励式教学为主，根据学员身体反馈灵活调整课程强度‌:ml-citation"
+    },
+    "swiperImages": [
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300"
+    ]
+  }
+]
