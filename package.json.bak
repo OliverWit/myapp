@@ -10,7 +10,7 @@
     "framework": "Vue3"
   },
   "scripts": {
-	"deploy": "gh-pages -d dist",     
+	"deploy": "gh-pages -d dist"     
     "build:weapp": "taro build --type weapp",
     "build:swan": "taro build --type swan",
     "build:alipay": "taro build --type alipay",
